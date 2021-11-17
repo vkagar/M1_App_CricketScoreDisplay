@@ -1,1 +1,1 @@
-# M1_Embb_Project1
+# M1_Game_Snake Game
