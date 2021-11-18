@@ -1,2 +1,2 @@
-# M1_App_SmartWristWatch
+# M1_App_SmartfitnessTrackerWristBand
 
