@@ -1,2 +1,2 @@
-# M1_App_SmartfitnessTrackerWristBand
+# M1_App_CricketScoreDisplay
 
