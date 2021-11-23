@@ -12,7 +12,6 @@
 
 | **Test ID** | **LLT ID** | **Description**                                              | **Exp IN** | **Exp OUT** | **Actual Out** |**TYPE oF TEST**  |    
 |-------------|-----|--------------------------------------------------------------|------------|-------------|----------------|------------------|
-
 |  T_01|L_01| Cancel a ticket   |ID number|  Your ticket is cancelled | Your ticket is cancelled |Requirements Based   |
 |  T_02|L_02| Change the price of ticket (only admin) | password| Please enter new price | Please enter new price   | Scenario Based|
 |  T_03|L_03| Change the price of ticket after login (only admin) | enter new price -price|Price Updated Successfully | Price Updated Successfully  | Boundary Based |
