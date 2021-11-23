@@ -99,7 +99,7 @@ By creating a system which will provide all the functionalities required,the boo
 |LR03|Summary of the booked ticket should be displayed  | HR03 |IMPLEMENTED|
 |LR04| Admin can change the price for the movie| HR02|IMPLEMENTED|
 |LR05| If appropriate login details are not entered a message is displayed-"wrong password" | HR01 | IMPLEMENTED |
-|LR06 |Available movies shoul be displayed  | HR02 | IMPLEMENTED |
+|LR06 |Available movies should be displayed  | HR02 | IMPLEMENTED |
 
 
 
