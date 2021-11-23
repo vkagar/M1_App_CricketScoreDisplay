@@ -81,29 +81,25 @@ By creating a system which will provide all the functionalities required,the boo
 
 ## Detail Requirements
 
-## High Leval Requirements
+# High Level Requirements
+| ID   |      Description     |  Status |
+|----------|:-------------:|------:|
+| HLR_1 |  The user can calculate the CAGR | Implemented  |
+| HLR_2 |    The user can calculate the Discount  | Implemented  |
+| HLR_3 |    The user can calculate the PPF  | Implemented  |
+| HLR_4 |    The user can calculate the EMI  | Implemented  |
+| HLR_5 |    The user can calculate the RD  | Implemented  |
+| HLR_6 |    The user can calculate the FD  | Implemented  |
+| HLR_7 |    The user can calculate the LumpSum  | Implemented  |
+| HLR_8 |    The user can calculate the SIP  | Implemented  |
 
-1 User shall be able to login the system.
+# Low Level Requirements
+| ID   |      Description     |  Status |
+|----------|:-------------:|------:|
+| LLR_1 |  List of operations displayed | Implemented  |
+| LLR_2 |  Input from the user  | Implemented  |
+| LLR_3 |  Exit the program  | Implemented  |
 
-2.User shall be able to  buy a ticket.
 
-3.he shall be able to get summary of booked.
-
-4.User shall be able to cancel the tickets.
-
-## Low Leval Requirements
-
-1.User shall be able to sign and login with correct login details.
-
-2.he should book a ticket in user entry mode.
-
-3.Available movies should be display.
-
-4.Admin can change the price of movie.
-
-5.Ticket booked summary should be displayed.
-
-6.If login credentials is not correct the a message should be diaplayed "wrong password"
-.
 
 
