@@ -81,24 +81,25 @@ By creating a system which will provide all the functionalities required,the boo
 
 ## Detail Requirements
 
-# High Level Requirements
-| ID   |      Description     |  Status |
-|----------|:-------------:|------:|
-| HLR_1 |  The user can calculate the CAGR | Implemented  |
-| HLR_2 |    The user can calculate the Discount  | Implemented  |
-| HLR_3 |    The user can calculate the PPF  | Implemented  |
-| HLR_4 |    The user can calculate the EMI  | Implemented  |
-| HLR_5 |    The user can calculate the RD  | Implemented  |
-| HLR_6 |    The user can calculate the FD  | Implemented  |
-| HLR_7 |    The user can calculate the LumpSum  | Implemented  |
-| HLR_8 |    The user can calculate the SIP  | Implemented  |
 
-# Low Level Requirements
-| ID   |      Description     |  Status |
-|----------|:-------------:|------:|
-| LLR_1 |  List of operations displayed | Implemented  |
-| LLR_2 |  Input from the user  | Implemented  |
-| LLR_3 |  Exit the program  | Implemented  |
+## High Level Requirements 
+| ID | Description | Category | Status | 
+| ----- | ----- | ------- | ---------|
+| HR01 | User shall be able to login to the system| Techincal | IMPLEMENTED | 
+| HR02 | He shall be able to buy a ticket | Techincal | IMPLEMENTED |
+| HR03 | He shall be able to get summary of the ticket booked | Techincal | IMPLEMENTED |
+| HR04 | He shall be able to cancel a ticket| Techincal | IMPLEMENTED |
+
+### Low level Requirements
+ 
+| ID | Description | HLR ID | Status (Implemented/Future) |
+| ------ | --------- | ------ | ----- |
+|LR01|User shall be able to login to the system with correct login details|HR01|IMPLEMENTED|
+|LR02|User need to book a ticket in a user entry mode|HR01|IMPLEMENTED|
+|LR03|Summary of the booked ticket should be displayed  | HR03 |IMPLEMENTED|
+|LR04| Admin can change the price for the movie| HR02|IMPLEMENTED|
+|LR05| If appropriate login details are not entered a message is displayed-"wrong password" | HR01 | IMPLEMENTED |
+|LR06 |Available movies shoul be displayed  | HR02 | IMPLEMENTED |
 
 
 
