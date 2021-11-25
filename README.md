@@ -3,7 +3,6 @@
 ## Introduction
 It's a Movie Ticket Booking System Which is based on the concept of booking Movie.The user can freely use its feature to carryout the process of movie ticket booking easily and freely.The Mini Project contains Limited features,but essential one.
 
-
 ![Movie Ticket Booking System](https://user-images.githubusercontent.com/94288413/142977892-bee919fe-ab47-4469-8d17-3342e536740d.jpg)
 
 ## Badges
