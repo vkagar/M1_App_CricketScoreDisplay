@@ -6,6 +6,8 @@ It's a Movie Ticket Booking System Which is based on the concept of booking Movi
 ## Badges
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/1b54355990bf4dc6b01e0e77844bef91)](https://www.codacy.com/gh/vkagar/M1_App_MovieTicketBooking/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=vkagar/M1_App_MovieTicketBooking&amp;utm_campaign=Badge_Grade)
 
+
+
 ![Movie Ticket Booking System](https://user-images.githubusercontent.com/94288413/142977892-bee919fe-ab47-4469-8d17-3342e536740d.jpg)
 
 ## Folder Structure
